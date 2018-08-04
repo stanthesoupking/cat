@@ -3,7 +3,7 @@
  * of command arguments.
  * 
  * The command layout is as follows:
- * cat <input-file1>, <input-file2>, <...> [-o <output-file>]
+ * cat <input-file1>, <input-file2>, <...> [-o <output-file>] [--help]
  * 
  * @author Stanley Fuller 
  */
@@ -165,5 +165,5 @@ void display_help() {
     printf("Concatenate and display given files. File paths are inputted through use\n");
     printf("of command arguments.\n");
     printf("The command layout is as follows:\n");
-    printf("cat <input-file1>, <input-file2>, <...> [-o <output-file>]\n");
+    printf("cat <input-file1>, <input-file2>, <...> [-o <output-file>] [--help]\n");
 }
