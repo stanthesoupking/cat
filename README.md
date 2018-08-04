@@ -1,6 +1,6 @@
 # cat
-Intentionally re-invented the wheel by creating a file concatenating program in C 🐱
-This is the superior version of 'cat' as it includes a super useful additional function.
+Intentionally re-invented the wheel by creating a file concatenating program in C 🐱  
+This is the superior version of 'cat' as it includes a super useful additional function.  
 Hint: try running it with `--catify` as an argument
 
 To compile, type the following from inside the source code's root directory:
